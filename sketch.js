@@ -1,0 +1,38 @@
+function setup() {
+  createCanvas(400,400);
+}
+function draw() {
+  frameRate(10);
+  background(0,255,0);
+  stroke(random(0,255),random(0,255),random(0,255));
+  strokeWeight(1);
+line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+  stroke(random(0,255),random(0,255),random(0,255));
+  line(random(0,400),random(0,400),random(0,400),random(0,400));
+}
